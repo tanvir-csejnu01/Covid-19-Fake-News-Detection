@@ -13,7 +13,7 @@ If you wish to use this dataset in your research or projects, please ensure to c
 
 ### Citation
 
-Ahammad, Tanvir. "Identifying hidden patterns of fake COVID-19 news: An in-depth sentiment analysis and topic modeling approach." *Natural Language Processing Journal* 6 (2024): 100053.
+Ahammad, Tanvir. "Identifying hidden patterns of fake COVID-19 news: An in-depth sentiment analysis and topic modeling approach." *Natural Language Processing Journal* 6 (2024): 100053. [Read the article](https://www.sciencedirect.com/science/article/pii/S2949719124000013).
 
 
 
